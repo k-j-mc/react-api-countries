@@ -1,5 +1,9 @@
 Application built with React to provide country information called from https://restcountries.com/
 
+### `npm install`
+
+then
+
 ### `npm start`
 
 Runs the app in the development mode.\
