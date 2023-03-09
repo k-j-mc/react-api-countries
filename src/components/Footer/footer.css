@@ -1,0 +1,20 @@
+.footerContainer {
+    position: fixed; 
+    width: 100vw; 
+    bottom: 0;
+}
+
+.footer {
+    height: 20px; 
+    background-color: #aaeafb; 
+    position: fixed; 
+    width: 100vw; 
+    bottom: 0;
+    color: #4a4a4a;
+    text-align: center;
+}
+
+.footerShadow {
+    height: 65px;
+    background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(212,245,254,0.8) 50%, rgba(97,219,252,1) 100%);
+}

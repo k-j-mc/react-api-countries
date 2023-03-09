@@ -1,0 +1,15 @@
+.avatarContainer {
+    overflow: hidden;
+}
+
+.avatarText {
+    z-index: 6;
+    position: absolute;
+    text-shadow: #000 1px 1px 3px;
+    margin-right: 2px;
+}
+
+.avatarImage {
+    z-index: 4;
+    transform: scale(2.5);
+}
